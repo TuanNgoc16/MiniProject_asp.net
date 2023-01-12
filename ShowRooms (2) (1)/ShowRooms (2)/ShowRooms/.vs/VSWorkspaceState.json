@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ShowRooms",
+    "\\ShowRooms\\ShowRooms",
+    "\\ShowRooms\\ShowRooms\\Controllers",
+    "\\ShowRooms\\ShowRooms\\Views",
+    "\\ShowRooms\\ShowRooms\\Views\\Template"
+  ],
+  "SelectedNode": "\\ShowRooms\\ShowRooms\\Views\\Template\\Projects.cshtml",
+  "PreviewInSolutionExplorer": false
+}
